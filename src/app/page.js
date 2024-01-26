@@ -86,7 +86,7 @@ export default function Home() {
 
 
       <div className="Preview">
-        <img className="Wall-Preview" src={imgCheckbox}></img>
+        <img className="Wall-Preview"  src={imgCheckbox}></img>
       </div>
 
 
